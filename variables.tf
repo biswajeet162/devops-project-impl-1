@@ -6,7 +6,7 @@ variable "rg_name" {
 variable "storage_account_name" {
   type = string
   description = "storage"
-  default = "biswastorageaccount12345impl1"
+  default = "biswastoacc543impl1"
 }
 
 variable "location" {
